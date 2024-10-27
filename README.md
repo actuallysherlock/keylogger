@@ -8,7 +8,7 @@ This is a basic keylogger developed in Python by using pynput and os along with 
 ## Getting Started 
 Kindly run the following commands (Make sure you have Python 3 installed)
 
-```bash
+```
 git clone https://github.com/saayxee/keylogger
 cd "keylogger"
 python keylogger.py
