@@ -6,7 +6,7 @@ This is a basic keylogger developed in Python by using pynput and os along with 
 - Logs all keystrokes in specified file (default is keylogs.log)
 
 ## Getting Started 
-Kindly run the following commands (Make sure you have Python 3 installed)
+To get started run the following commands (Make sure you have Python 3 installed)
 
 ```
 git clone https://github.com/saayxee/keylogger
