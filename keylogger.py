@@ -1,7 +1,4 @@
 #!/usr/bin/python
-# Written By: Sahar Hathiramani
-# Date: 01/20/2021
-
 from pynput import keyboard
 import os
 from datetime import datetime
