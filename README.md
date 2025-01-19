@@ -33,7 +33,7 @@ python keylogger.py
 ```
 **Navigate to the logs**
 ```bash
-cd path/to/your/configured/log/file
+cd path/to/your/configured/log/file # If you didn't change anything, you should find it beside the main keylogger script.
 ```
 
 ## Contribution/Bugs
