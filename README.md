@@ -2,7 +2,7 @@
 > [!CAUTION]
 > This repository contains code intended solely for educational purposes. It is designed to demonstrate how keyloggers function and their potential security implications. The author does not remain accountable for any malicious activities, including but not limited to unauthorized surveillance, data theft, or cyberattacks, resulting from the use of this code.
 
-This is a simple keylogger developed in Python 3 by using pynput and os along with datetime to ensure user-friendly logging.
+This is a simple key-logging script developed in Python 3, by using pynput and os along with datetime to ensure user-friendly logging.
 
 ## Features
 - Real-time logging.
